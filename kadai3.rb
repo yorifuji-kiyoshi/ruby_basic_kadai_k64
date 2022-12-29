@@ -16,3 +16,4 @@ if x
 else
   puts "整数ではありません"
 end
+
