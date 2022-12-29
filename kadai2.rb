@@ -21,3 +21,4 @@ olympics.each do |i|
   # 豆知識がある場合のみ豆知識について出力してください
   puts "豆知識:　#{i[:note]}" if i[:note]
 end
+
