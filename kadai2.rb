@@ -12,6 +12,12 @@ olympics = [
 ]
 
 puts "第1~10回大会のオリンピック一覧"
+puts "------------------------------"
+olympics.each do |olympics|
+  puts "#{olympics[:year]}"
+  print "#{olympics[:city]}"
+  puts "------------------------------"
+end
 
 # each文を用いて、オリンピックの情報を出力してください
 
