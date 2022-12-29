@@ -15,3 +15,4 @@ elsif year % 4 == 0 # 条件④
 else
   puts "#{year}年は夏季オリンピックイヤーではありません"
 end
+
