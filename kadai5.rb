@@ -14,3 +14,4 @@ n.times do |i|
 n.times do |i|
   puts "学籍番号 #{students[i][:student_id]} - 名前 #{students[i][:name]}"
 end
+puts "ーーーーーーーーーーーーーーーーーーーーーー"
